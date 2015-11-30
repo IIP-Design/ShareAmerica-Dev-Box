@@ -1,0 +1,8 @@
+# OS Specific
+.DS_Store
+.Trash
+
+.vagrant
+www
+wp-config.php
+node_modules/
