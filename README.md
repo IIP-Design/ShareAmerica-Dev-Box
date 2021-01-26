@@ -1,3 +1,7 @@
+# :warning: THIS REPO HAS BEEN ARCHIVED :warning:
+
+This project has been archived and is no longer being maintained. The code is preserved here as a reference.
+
 # ShareAmerica.dev Multisite
 
 Built on top of the [Design Dev Box](https://github.com/USStateDept/design-dev-box).
